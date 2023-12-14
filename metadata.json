@@ -1,0 +1,23 @@
+{
+    "name": "DONK",
+    "symbol": "DONK",
+    "description": "Description of your token here",
+    "seller_fee_basis_points": 0, 
+    "image": "https://github.com/DARKSTONE-LABS/KKAP/blob/main/donk.png",
+    "attributes": [], 
+    "properties": {
+      "creators": [
+        {
+          "address": "doNKgin1yrQLd82k2AyfyfHZJYAHCnnNPDX44AJtkL8",
+          "share": 100
+        }
+      ],
+      "files": [
+        {
+          "uri": "https://github.com/DARKSTONE-LABS/KKAP/blob/main/donk.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
